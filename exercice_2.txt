@@ -1,0 +1,11 @@
+Situation 1:
+A + C = 7800
+
+Situation 2:
+B + B = 8000
+
+Situation 3:
+B + D = 11200
+
+Situation 4:
+B + C = 12000
